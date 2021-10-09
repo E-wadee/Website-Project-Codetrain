@@ -1,0 +1,146 @@
+
+
+body{
+	background-color:white;
+}
+
+
+/*div{
+	background-color:DimGrey;
+
+	height: 100px;
+	margin: 20px;
+	width: 100px;
+	 
+	/*background-color: MediumAquaMarine;
+	border-bottom: 1px solid LightGray;
+	position:absolute;
+	width: 100%;*/
+
+
+.bar{
+	background-color:white;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	margin: 30px;
+	/*align-items: center;*/
+
+}
+
+	.bar_a {
+		color: white;
+		background-color: MediumAquaMarine;
+		height: 250px;
+		width: 1500px;
+		text-align: center;
+	}
+
+
+/*.bar_b >li{ float:right;
+
+}*/
+
+		.bar_b{
+			background-color:DimGrey;
+			height: 40px;
+			width: 1500px;
+		}
+		.barr_c{
+				background-color:WhiteSmoke;
+				width: 380px;
+				height: 650px;
+			
+				/*text-align: left;*/
+			}
+			.barrr_c{
+				margin: 10px;
+			}
+
+			.bar_c{
+				background-color:WhiteSmoke;
+				width: 300px;
+				height: 650px;
+				margin: 3px;
+			}
+
+				.bar_c_a_img{
+					background-color:DarkGray;
+					width: 300px;
+					height: 100px;
+					margin: 3px;
+					float: right;
+				}
+
+					.bar_c_b_img{
+						background-color:DarkGray;
+						width: 300px;
+						height: 45px;
+						margin: 3px;
+						float: right;
+					}
+
+						.bar_c_c_img{
+							background-color:DarkGray;
+							width: 300px;
+							height: 45px;
+							margin: 3px;
+							float: right;
+						}
+							.bar_c_d_img{
+								background-color:DarkGray;
+								width: 300px;
+								height: 45px;
+								margin: 3px;
+								float: right;
+							}
+				.barr_d{
+								background-color: White;
+								width: 900px;
+								height: 650px;
+								margin: 3px;
+							}
+
+								.barrr_d{
+									margin: 10px;
+
+								}
+
+
+							}
+							.bar_d{
+								background-color:;
+								width: 500px;
+								height: 650px;
+								margin: 3px;
+							}
+									.bar_d_a_img{
+										background-color:DarkGray;
+										width: 600px;
+										height: 100px;
+										margin: 3px;
+										float:right;
+
+									}
+										.bar_d_b_img{
+											background-color:DarkGray;
+											width: 600px;
+											height: 100px;
+											margin: 3px;
+											float: right;
+
+										}
+										.barr_e_footer{
+											margin-bottom: 20px;
+											background-color:LightGray;
+												width: 1500px;
+												height: 70px;
+												align-content: center;
+												align-items: center;
+
+										}
+											.bar_e_fooer{
+												
+												
+											}
